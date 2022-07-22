@@ -1,0 +1,9 @@
+git init //cria repositorio local
+git add .* //adiciona no git os aquivos
+git status 
+git commit -m "Mensagen"
+
+git remote add origin https://github.com/antonioedb/Manuais-Java.git
+git remote -v //status do rempositorio github
+git push origin master  // usuario e senha do gitHub
+
